@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ujjwalrai01
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c language and python
+- 🌱 I’m currently learning web development and java
 - 💞️ I’m looking to collaborate on web devlopement
 - 📫 How to reach me ujjwalrai01
 
