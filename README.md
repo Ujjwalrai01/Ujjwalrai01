@@ -4,7 +4,7 @@
 I am a passionate developer who loves to learn and experiment with new technologies. Currently, I am diving deep into the world of web development. Here is a brief overview of what I have learned and some of the projects I have worked on.
 
 ## Skills
-- **Languages**: HTML, CSS, JavaScript, Python
+- **Languages**: C, JavaScript, Python, HTML, CSS, Tailwind CSS .
 - **Libraries/Frameworks**: React.js (currently learning)
 
 ## Projects
