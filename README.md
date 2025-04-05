@@ -4,22 +4,30 @@
 I am a passionate developer who loves to learn and experiment with new technologies. Currently, I am diving deep into the world of web development. Here is a brief overview of what I have learned and some of the projects I have worked on.
 
 ## Skills
-- **Languages**: C, JavaScript, Python, HTML, CSS, Tailwind CSS.
-- **Libraries/Frameworks**: React.js, Next.js (in progress)
+- **Languages**:
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- **Libraries/Frameworks**:
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) (in progress)
 
 ## Projects
 Here are some of the projects I have built:
 
 ### Website Clones
 - **Netflix Clone**: A static clone of the Netflix website, built using HTML, CSS, and JavaScript.
-- **Amazon clone**: A static clone of the Amazon website, built using HTML, CSS, and JavaScript.
-- **Gemini clone**: A static clone of the Gemini website, built using React.js and Tailwind CSS.
+- **Amazon Clone**: A static clone of the Amazon website, built using HTML, CSS, and JavaScript.
+- **Gemini Clone**: A static clone of the Gemini website, built using React.js and Tailwind CSS.
 
 ### Small Projects
 - **Personal Portfolio**: A web application that generates strong passwords with the help of API.
 - **Random Quote Generator**: A web application that generates random quotes with the help of API.
 - **Dictionary App**: A web application that guides our word meaning and vocab with the help of API.
-- **Movie Guide**: A web application that guides about movies with the help of API.
+- **Movie Guide**: A web application that provides information about movies with the help of API.
 - **Password Generator**: A web application that generates strong passwords.
 - **Real-Time Analog Clock**: A real-time analog clock built using JavaScript.
 - **Calculator**: A simple calculator built using JavaScript.
