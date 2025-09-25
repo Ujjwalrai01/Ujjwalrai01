@@ -81,7 +81,7 @@ _"Innovation distinguishes between a leader and a follower."_ - Steve Jobs
   <img src="https://github-profile-trophy.vercel.app/?username=Ujjwalrai01&theme=radical&row=2&column=4&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
-- 🥉 **Hackverse 2025 - MIT Mysuru**: Secured an impressive **3rd place** among 140+ competitive teams.
+- 🥉 **Hackverse 2025 - MIT Mysuru**: Secured an impressive **2nd place** among 140+ competitive teams.
 - 🏏 **Inter-Branch Cricket Champion**: Demonstrated leadership and teamwork beyond the code editor.
 - 🚀 Consistently engaged in **Open Source Contributions & Hackathon Participation**, driving innovation and learning.
 
