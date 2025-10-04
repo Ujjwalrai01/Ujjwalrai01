@@ -58,8 +58,14 @@ _"Innovation distinguishes between a leader and a follower."_ - Steve Jobs
   <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalrai01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalrai01&layout=compact&theme=radical&hide_border=true" height="180px"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwalrai01&theme=radical&hide_border=true" height="180px"/>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/Ujjwalrai01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwalrai01&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" alt="Ujjwalrai01's streak stats" height="220px"/>
+  </a>
 </p>
 
 <details>
