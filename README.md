@@ -140,7 +140,7 @@ Netflix-inspired movie recommendation platform with smart, personalized suggesti
 
 ### 🎖️ Notable Achievements
 
-<details open>
+<!-- <details open>
 <summary><b>Click to view all GitHub Badges</b></summary>
 <br>
 
@@ -153,7 +153,7 @@ Netflix-inspired movie recommendation platform with smart, personalized suggesti
 | ![Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Sponsored open source | 🎯 |
 | ![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Co-authored commits | ✅ |
 
-</details>
+</details> -->
 
 ### 🎯 Competition & Hackathon Victories
 
