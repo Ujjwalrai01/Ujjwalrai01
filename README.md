@@ -132,21 +132,40 @@ AI-powered identity verification system enabling seamless, real-time ID authenti
 </table>
 
 ---
-
-
 ## 🏆 Achievements & Accolades
 
 <div align="center">
-
+---
+  
 ### 🎃 Hacktoberfest 2025 - Complete Domination
 <img src="https://img.shields.io/badge/Hacktoberfest-2025-FF6B35?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-SUPERCONTRIBUTOR-gold?style=for-the-badge" />
 <img src="https://img.shields.io/badge/All_4_Levels-COMPLETED-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Tree_Nation-PLANTED-green?style=for-the-badge&logo=tree&logoColor=white" />
 
----
+
+
 
 [![An image of @ujjwalrai01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalrai01)](https://holopin.io/@ujjwalrai01)
+
+---
+ ### 🚀 GirlScript Summer of Code 2025 (GSSOC'25)
+<img src="https://img.shields.io/badge/GSSOC-2025-FF6B6B?style=for-the-badge&logo=girlscript&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-ACTIVE_CONTRIBUTOR-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open_Source-CHAMPION-gold?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Community-BUILDER-blue?style=for-the-badge&logo=discord&logoColor=white" />
+
+<br><br>
+
+**🎖️ GSSOC'25 Achievement Badges:**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman Badge" width="120px" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="120px" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Adventurer Badge" width="120px" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Trailblazer Badge" width="120px" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Summit Badge" width="120px" style="margin: 10px;" />
+</div>
 
 ---
 
@@ -225,6 +244,8 @@ Community Building
 <img src="https://ghchart.rshah.org/F72C5B/Ujjwalrai01" width="100%" />
 
 </details>
+
+---
 
 ## 📬 Let's Connect & Collaborate!
 
