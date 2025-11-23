@@ -12,7 +12,7 @@
 
 ---
 
-## 🌊 A Glimpse Into My World
+## 🌊 A Glimpse Into My Profile
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -34,7 +34,7 @@
 <div align="center">
 
 ### Core Technologies
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,react,nextjs,redux,tailwind,framer,bootstrap,reactnative,vercel,netlify,aws,cloudflare,nodejs,git,github,gitlab,vite,npm,figma,postman,linux,django&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,react,nextjs,redux,tailwind,framer,bootstrap,reactnative,vercel,netlify,aws,cloudflare,nodejs,express,mongodb,postgres,fastapi,git,github,gitlab,vite,npm,figma,postman,linux,django&theme=dark" />
 
 ### Extended Arsenal & Libraries
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -48,6 +48,13 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 </div>
 
@@ -66,9 +73,32 @@
 
 A comprehensive platform serving **2,000+ students & recruiters**, streamlining career opportunities and placement processes.
 
+**Tech Stack:**
+- 🎨 Frontend: React.js + Tailwind CSS, Redux, React Router, etc.
+- 🔐 Backend: Python (FastAPI)
+- 💾 Database: PostgreSQL 
+
 **Impact:** Revolutionized campus placements
 
 </td>
+<td width="50%">
+
+### 🩸 BloodConnect
+[![Website](https://img.shields.io/badge/Live-bloodconnect01.netlify.app-red?style=for-the-badge&logo=heart&logoColor=white)](https://bloodconnect01.netlify.app/)
+
+**Save Lives Together** - A life-saving platform connecting blood donors with hospitals instantly. Built to make blood donation easier, faster, and more efficient.
+
+**Tech Stack:**
+- 🎨 Frontend: React.js + Tailwind CSS, Axios, React Router, Redux, etc.
+- 🗺️ Maps: Leaflet API for real-time location
+- 🔐 Backend: Supabase + PostgreSQL
+- 🤖 AI: Gemini API integration
+
+**Impact:** Bridging the gap between donors and those in need
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌆 City Reporter
@@ -76,11 +106,15 @@ A comprehensive platform serving **2,000+ students & recruiters**, streamlining 
 
 🏆 **Hackathon Winner** - A civic engagement platform empowering citizens to report and resolve local issues.
 
+**Tech Stack:**
+- 🎨 Frontend: React.js + Tailwind CSS, Axios, Redux, React Router, etc.
+- 🗺️ Maps: Leaflet API for real-time location
+- 🔐 Backend: Node.js (Express.js), MongoDB, etc. 
+- 🤖 AI: Gemini API integration
+
 **Achievement:** Winner at MIT Mysuru Hackverse 2025
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🤖 IDVerifyAI
@@ -88,22 +122,20 @@ A comprehensive platform serving **2,000+ students & recruiters**, streamlining 
 
 AI-powered identity verification system enabling seamless, real-time ID authentication.
 
-**Tech:** AI/ML Integration
-
-</td>
-<td width="50%">
-
-### 🎬 Movie Recommender
-[![Website](https://img.shields.io/badge/Live-ujjwalmoviezone.netlify.app-red?style=for-the-badge)](https://ujjwalmoviezone.netlify.app/)
-
-Netflix-inspired movie recommendation platform with smart, personalized suggestions.
-
-**Features:** ML-based recommendations
+**Tech Stack:**
+- 🎨 Frontend: React.js + Tailwind CSS, Axios, Redux, React Router, etc.
+- 🔐 Backend: Node.js (Express.js), MongoDB, etc.
+- 🤖 AI: Gemini API integration
 
 </td>
 </tr>
 </table>
 
+---
+
+
+---
+[![An image of @ujjwalrai01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalrai01)](https://holopin.io/@ujjwalrai01)
 ---
 
 ## 🏆 Achievements & Accolades
@@ -115,45 +147,18 @@ Netflix-inspired movie recommendation platform with smart, personalized suggesti
 <img src="https://img.shields.io/badge/Status-SUPERCONTRIBUTOR-gold?style=for-the-badge" />
 <img src="https://img.shields.io/badge/All_4_Levels-COMPLETED-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Tree_Nation-PLANTED-green?style=for-the-badge&logo=tree&logoColor=white" />
+
 ---
-<img width="977" height="856" alt="image" src="https://github.com/user-attachments/assets/f061e96a-5182-4978-8602-b8ab5c8daa61" />
+
+<img width="977" height="856" alt="Hacktoberfest Achievement" src="https://github.com/user-attachments/assets/f061e96a-5182-4978-8602-b8ab5c8daa61" />
+
 ---
-
-<!-- </div>
-
-| Achievement | Description | Status |
-|------------|-------------|--------|
-| 🎯 **Level 1** | Initial 4 PRs completed | ✅ Complete |
-| 🔥 **Level 2** | Advanced contributions | ✅ Complete |
-| 💎 **Level 3** | Expert tier reached | ✅ Complete |
-| 🏅 **Level 4** | Master contributor | ✅ Complete |
-| ⭐ **Supercontributor** | Elite recognition | ✅ Achieved |
-| 🌳 **Tree Nation** | Environmental impact | ✅ Tree Planted |
-
-<div align="center"> -->
 
 ### 🏅 GitHub Achievements Showcase
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ujjwalrai01&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
-
-### 🎖️ Notable Achievements
-
-<!-- <details open>
-<summary><b>Click to view all GitHub Badges</b></summary>
-<br>
-
-| Badge | Achievement | Earned |
-|-------|-------------|--------|
-| ![Quick Draw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Closed an issue/PR within 5 minutes | ✅ |
-| ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | Multiple merged PRs | ✅ |
-| ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Merged PR without review | ✅ |
-| ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Repo gained stars | ✅ |
-| ![Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Sponsored open source | 🎯 |
-| ![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Co-authored commits | ✅ |
-
-</details> -->
 
 ### 🎯 Competition & Hackathon Victories
 
@@ -225,43 +230,6 @@ Community Building
 
 </details>
 
----
-
-## 💼 What I'm Currently Working On
-
-```javascript
-const ujjwal = {
-    currentFocus: "Building scalable full-stack applications",
-    learning: ["Advanced System Design", "Cloud Architecture", "AI/ML Integration"],
-    collaborateOn: ["Open Source Projects", "Innovative Startups", "Social Impact Tech"],
-    goals2025: [
-        "Contribute to 100+ open source projects",
-        "Build a SaaS product with 10K+ users",
-        "Master cloud architecture patterns",
-        "Land a role at a top tech company"
-    ],
-    funFact: "I debug code better at 2 AM with coffee ☕"
-};
-```
-
----
-
-## 🎯 2025 Contribution Goals
-
-<div align="center">
-
-| Goal | Target | Progress |
-|------|--------|----------|
-| 🎃 Hacktoberfest | Supercontributor | ✅ Achieved |
-| 📝 Open Source PRs | 100+ merged PRs | 🔄 In Progress |
-| ⭐ GitHub Stars | 1000+ stars | 🎯 On Track |
-| 🚀 Projects Launched | 10+ live projects | 🔄 Building |
-| 🌍 Global Impact | 10K+ users served | 📈 Growing |
-
-</div>
-
----
-
 ## 📬 Let's Connect & Collaborate!
 
 <div align="center">
@@ -296,6 +264,6 @@ Your support means the world to me and keeps me motivated to create more amazing
 
 **✨ This profile is dynamic and evolves with my journey. Check back for updates! ✨**
 
-*Last Updated: October 2025*
+*Last Updated: November 2025*
 
 </div>
