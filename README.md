@@ -134,10 +134,6 @@ AI-powered identity verification system enabling seamless, real-time ID authenti
 ---
 
 
----
-[![An image of @ujjwalrai01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalrai01)](https://holopin.io/@ujjwalrai01)
----
-
 ## 🏆 Achievements & Accolades
 
 <div align="center">
@@ -150,7 +146,7 @@ AI-powered identity verification system enabling seamless, real-time ID authenti
 
 ---
 
-<img width="977" height="856" alt="Hacktoberfest Achievement" src="https://github.com/user-attachments/assets/f061e96a-5182-4978-8602-b8ab5c8daa61" />
+[![An image of @ujjwalrai01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalrai01)](https://holopin.io/@ujjwalrai01)
 
 ---
 
